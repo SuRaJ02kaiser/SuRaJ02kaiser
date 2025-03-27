@@ -2,7 +2,7 @@
 
 - 🌍 I am a resident of Nainital, Uttarakhand.
 - 🌱 I’m currently learning full stack web development.
-- 💬 Ask me about Javascript, HTML, CSS, Node.js, Express.js, Mongodb.
+- 💬 Ask me about Javascript, HTML, CSS, Typescript, Node.js, Express.js, Mongodb.
 - 📫 You can contact me at: surajsinghnagarkoti2992003@gmail.com.
 - 😄 Pronouns: He/Him.
 - 🎯 Hobbies : coding👨🏻‍💻 | gaming🎮 | sports⚽
