@@ -8,6 +8,7 @@
 - 🎯 Hobbies : coding👨🏻‍💻 | gaming🎮 | sports⚽
   <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuRaJ02kaiser&label=Profile%20views&color=0e75b6&style=flat" alt="github views" /> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/> </p>
 
 ---
 
