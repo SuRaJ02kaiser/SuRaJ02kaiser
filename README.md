@@ -29,7 +29,7 @@ Aspiring full-stack web developer. A quick learner with the ability to devote co
 ## 🛠️ Languages and Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=blue" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&labelColor=black&logo=css3&logoColor=purple" alt="CSS" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Typescript-007EC6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=#007EC6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
