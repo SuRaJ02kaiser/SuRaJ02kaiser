@@ -20,7 +20,7 @@ Aspiring full-stack web developer. A quick learner with the ability to devote co
 ## 📞 Contact Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj0001/">
-    <img src="https://img.shields.io/badge/Suraj_Singh-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
