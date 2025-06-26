@@ -32,6 +32,7 @@ Aspiring full-stack web developer. A quick learner with the ability to devote co
   <img src="https://img.shields.io/badge/CSS-purple?style=for-the-badge&labelColor=black&logo=css3&logoColor=purple" alt="CSS" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Typescript-007EC6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=#007EC6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
